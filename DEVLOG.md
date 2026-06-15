@@ -1,5 +1,7 @@
 # Development Log
 
+Follow the analysis and human interpretation of this model at the LynxAI Blog here: https://substack.com/@lynxai
+
 ## 25/4/2026 - Day 1
 
 Project initialized. Set up Python, VS Code, and GitHub repository.
